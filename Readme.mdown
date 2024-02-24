@@ -1,4 +1,4 @@
-# Example of using split in a Rails 6.0 App
+# Example of using split in a Rails 7.0 App
 
 This example app shows how easily you can integrate the a/b testing framework [Split](https://github.com/splitrb/split) into your Rails based projects.
 
